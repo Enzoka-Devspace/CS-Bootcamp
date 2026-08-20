@@ -11,9 +11,31 @@ namespace Program01
         public string? Modelo { get; set; }
         public double Bateria { get; set; }
         public double PesoCiclista { get; set; }
+        public int RecargaMes {  get; set; }
 
-        public int recargaMes {  get; set; }
+        //metodos(ações)
+        public double CalcularAutonomia()
+        {
+            double AutonomiaBase = Bateria / 15.0;
+            bool Peso = PesoCiclista > 90.0;
+            // se o peso do ciclista for maior que 90kg, reduz a autonomia em 15%
+            return Peso ? (AutonomiaBase * 0.05) : AutonomiaBase;
 
+        }
+        public double CalcularConsumoMensal()
+        {
+            double cargaPorKm = Bateria / 1000.0;
+            return cargaPorKm * RecargaMes;
+        }
+        public double calcularCustoMensal()
+        {
+            const double Preco = 0.80;
+            return CalcularConsumoMensal() * Preco;
 
+        }
+        public bool BikeEconomica()
+        {
+            return (calcularCustoMensal() < 15.0 || (CalcularAutonomia() > 40));
+        }
     }
 }
