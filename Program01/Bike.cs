@@ -27,7 +27,7 @@ namespace Program01
             double cargaPorKm = Bateria / 1000.0;
             return cargaPorKm * RecargaMes;
         }
-        public double calcularCustoMensal()
+        public double CalcularCustoMensal()
         {
             const double Preco = 0.80;
             return CalcularConsumoMensal() * Preco;
@@ -35,7 +35,7 @@ namespace Program01
         }
         public bool BikeEconomica()
         {
-            return (calcularCustoMensal() < 15.0 || (CalcularAutonomia() > 40));
+            return (CalcularCustoMensal() < 15.0 || (CalcularAutonomia() > 40));
         }
     }
 }
