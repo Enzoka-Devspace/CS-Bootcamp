@@ -1,0 +1,14 @@
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\bin\Debug\net10.0\ProjectCS-Class3.exe
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\bin\Debug\net10.0\ProjectCS-Class3.deps.json
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\bin\Debug\net10.0\ProjectCS-Class3.runtimeconfig.json
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\bin\Debug\net10.0\ProjectCS-Class3.dll
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\bin\Debug\net10.0\ProjectCS-Class3.pdb
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.AssemblyInfoInputs.cache
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.AssemblyInfo.cs
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.csproj.CoreCompileInputs.cache
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.dll
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\refint\ProjectCS-Class3.dll
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.pdb
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ProjectCS-Class3.genruntimeconfig.cache
+C:\Users\2amod\source\repos\ProjectCS-Class3\ProjectCS-Class3\obj\Debug\net10.0\ref\ProjectCS-Class3.dll
